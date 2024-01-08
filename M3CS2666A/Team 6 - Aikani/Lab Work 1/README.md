@@ -30,7 +30,7 @@ Step 7: Type “flutter doctor” in cmd and make sure everything is installed a
 
 Step 8: Flutter successfully installed.
 
-<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/login8.png" alt="image" width="auto" height="auto">
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/login8.jpg" alt="image" width="auto" height="auto">
 
 FAQ Installation Flutter
 
