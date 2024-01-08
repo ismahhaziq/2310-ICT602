@@ -1,6 +1,6 @@
-Lab Work 5
+###Lab Work 5
 
-CRUD
+#CRUD
 
 1. Group of 4
 2. Using VS Code create the information page detail form.
@@ -12,7 +12,7 @@ CRUD
 8. Github page README.md should highlight on VSCode final coding pages + Speedcode.
 
 
-LINK FOR LAB: 
+##LINK FOR LAB: 
 
 Link Speedcode : https://youtu.be/Z7f-nkdU56E
 
