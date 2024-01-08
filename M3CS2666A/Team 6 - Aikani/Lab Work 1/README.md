@@ -32,7 +32,8 @@ Step 8: Flutter successfully installed.
 
 <img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/login8.jpg" alt="image" width="auto" height="auto">
 
-FAQ Installation Flutter
+<p style = "bold;">FAQ Installation Flutter</p>
+
 
 1. What are the hardware requirements for installing flutter?
 
