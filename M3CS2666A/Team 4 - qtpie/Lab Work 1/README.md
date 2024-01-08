@@ -1,6 +1,5 @@
 1.	Choose the development platform according to your software
- 
-
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%204%20-%20qtpie/Lab%20Work%201/LW1A.jpg">
 2.	Download the latest Visual Studio Code and Android Studio
 <img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%204%20-%20qtpie/Lab%20Work%201/LW1B.jpg">
 3.	Install Flutter SDK by clicking the blue button  
