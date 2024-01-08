@@ -1,4 +1,4 @@
-LAB 1: LOGIN PAGE
+LAB 2: LOGIN PAGE
 
 Step 1: Open Visual Studio Code. 
 
