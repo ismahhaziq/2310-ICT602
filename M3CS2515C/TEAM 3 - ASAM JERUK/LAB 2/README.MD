@@ -9,6 +9,6 @@
 5. Make a documentation.
 
 ### LINK FOR LAB:
-Link Speedcode : 
+Link Speedcode : https://youtu.be/Ote7bhq-MQM?si=BmfFfpAwUqam6n6R
 
 Link GitHub: https://github.com/thisisnotmasyi/ICT602-LAB2.git
