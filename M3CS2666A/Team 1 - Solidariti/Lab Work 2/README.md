@@ -197,5 +197,24 @@ Step 6 : Run the codes.
 <img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%201%20-%20Solidariti/Lab%20Work%202/image/lab2e.png?raw=true" alt="image" width="auto" height="auto">
 
 Step 7 : Output was displayed as below.
+
 <img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%201%20-%20Solidariti/Lab%20Work%202/image/lab2f.png?raw=true" alt="image" width="auto" height="auto">
+
+
+FAQ LAB WORK 2
+
+Q: What is the purpose of creating a login page in Flutter?
+A: A login page is a commonly used UI component that allows users to authenticate themselves before accessing the features of an app. This is crucial for protecting sensitive information and ensuring that only authorized users can access certain parts of the app.
+
+Q: How do I run the code?
+A: Use a code editor like Visual Studio Code with the Flutter extension and a connected emulator or device to run the Flutter app.
+
+Q: What should I do if I encounter errors?
+A: Carefully read the error messages and try to identify the cause of the issue. Check for typos, missing dependencies, or incorrect code structure. You can also search for help online or consult the Flutter documentation.
+
+Q: How can I customize the login page further?
+A: You can experiment with different layouts, colors, fonts, and add features like password visibility toggle, remember me functionality, or social login integration.
+
+
+
  
