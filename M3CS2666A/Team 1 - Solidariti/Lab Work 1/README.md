@@ -2,7 +2,7 @@ LAB 1 –  INSTALLATION OF FLUTTER, ANDROID STUDIO, VISUAL STUDIO CODE AND VISUA
 
 Step 1 : Install Flutter. Go to website URL https://docs.flutter.dev/get-started/install/windows
 
-<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%201%20-%20Solidariti/Lab%20Work%201/image/lab1.png?raw=true" alt="image" width="auto" height="auto">
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%201%20-%20Solidariti/Lab%20Work%201/image/lab1.png?raw=true" alt="image" width="auto" height="auto"> 
 
 Step 2 : Click the blue button to install Flutter SDK.
 <img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%201%20-%20Solidariti/Lab%20Work%201/image/lab1a.png?raw=true" alt="image" width="auto" height="auto">
