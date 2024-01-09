@@ -15,11 +15,11 @@ Step 3: Install Flutter Software development Kit (Flutter SDK).
 
 Step 4: After completing the SDK installation, extract the folder in C:
 
-<br><br><img src="https://github.com/addff/2310-ICT602/assets/130625491/e5c233d5-3d27-405a-b84f-d5029ffcaeb2" alt="image" width="400" height="auto"><br><br>
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/e5c233d5-3d27-405a-b84f-d5029ffcaeb2" alt="image" width="400" height="auto"><br><br>
 
 Step 5: Go to System Properties.Then, click the Environment Variables button.
 
-<br><br><img src="https://github.com/addff/2310-ICT602/assets/130625491/c2cff3e7-c9ec-4187-9eb4-785d6d09de40" alt="image" width="400" height="auto"><br><br>
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/c2cff3e7-c9ec-4187-9eb4-785d6d09de40" alt="image" width="400" height="auto"><br><br>
 
 Step 6: Edit Path by choose path > click 'OK' button > click 'New' button > and paste path to flutter/bin > click 'OK'
 
@@ -28,7 +28,7 @@ Step 6: Edit Path by choose path > click 'OK' button > click 'New' button > and 
 
 Step 7: Open Command Prompt (CMD) to check Flutter SDK is installed in path.
 
-<img src="https://github.com/addff/2310-ICT602/assets/130625491/55473271-13f9-4f31-8d8a-21a7435ac614" alt="image" width="300" height="auto">
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/55473271-13f9-4f31-8d8a-21a7435ac614" alt="image" width="300" height="auto"><br><br>
 
 
 Step 8:  Then, type in ‘flutter‘ to check whether flutter framework can be accessed globally.
