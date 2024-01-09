@@ -2,7 +2,7 @@
 
 ## Login Page
 
-1. Group of 4
+1. Group of 3
 2. Using Flutter a framework and Dart as a programming language.
 3. Using Android Studio or VS Code to create login page.
 4. Run.
