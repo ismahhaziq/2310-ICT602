@@ -9,7 +9,7 @@
 5. Recreate Login form.
 6. Run. 
 
-### LINK FOR LAB 3&4 : 
+### LINK FOR LAB 3: 
 
 Link Speedcode: https://youtu.be/jfTVTUp17jA
 
