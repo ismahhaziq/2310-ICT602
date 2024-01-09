@@ -10,7 +10,7 @@ Step 3: Enter name, choose Java language and API. Click Finish and wait for grad
 <img src="https://github.com/addff/2310-ICT602/assets/130625491/7bad6a6a-ebbc-4bfe-8a31-b4871b939ab3" alt="image" width="700" height="auto">
 
 Step 4: Start coding at MainActivity.java
-<img src="" alt="image" width="700" height="auto">
+<img src="https://github.com/addff/2310-ICT602/assets/130625491/1f7c280d-b4f4-411e-afc0-c17b63f398d3" alt="image" width="700" height="auto">
 
 
 Step 5: 
