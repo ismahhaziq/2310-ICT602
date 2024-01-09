@@ -8,7 +8,6 @@ Step 1: Go to website https://docs.flutter.dev/get-started/install/windows/mobil
 
 Step 2: Check for the System Requirements.Then can begin the installation process.
 
-
 <br><img src="https://github.com/addff/2310-ICT602/assets/130625491/2036e796-9108-49cb-bdcb-8ef9472d080c" alt="image" width="700" height="auto"><br><br>
 
 Step 3: Install Flutter Software development Kit (Flutter SDK).
@@ -23,7 +22,7 @@ Step 5: Go to System Properties.Then, click the Environment Variables button.
 
 <br><img src="https://github.com/addff/2310-ICT602/assets/130625491/c2cff3e7-c9ec-4187-9eb4-785d6d09de40" alt="image" width="400" height="auto"><br><br>
 
-Step 6: Edit Path by choose path > click 'OK' button > click 'New' button > and paste path to flutter/bin > click 'OK'
+Step 6: Edit Path by choose path > click 'Edit' button > click 'New' button > and paste path to flutter/bin > click 'OK'.
 
 <br><img src="https://github.com/addff/2310-ICT602/assets/130625491/8069d41d-4b93-4ad4-b8fa-bd76b904194f" alt="image" width="400" height="auto"><br><br>
 
