@@ -1,6 +1,6 @@
 LAB 2 – DESIGN A LOGIN PAGE
 
-Step 1 : Open your Visual Studio Code.
+Step 1 : Open your Visual Studio Code 
 <img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%201%20-%20Solidariti/Lab%20Work%202/image/lab2a.png?raw=true" alt="image" width="auto" height="auto">
 
 Step 2 : Click Ctrl + Shift + P, then type and click Flutter: New Project.
