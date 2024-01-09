@@ -1,15 +1,19 @@
-GROUP:
+# GROUP:
 M3CS2515C
 AKMAL FARHAN BIN AHMAD ANNUAR (2022660498)
+
 NURUL IFFAH HASYIMAH BINTI HASAN (2022457982)
+
 ZUHAIRAH NURHIDAYAH BINTI ZAINUDIN (2022457722)
+
 NURFADLIYANA 'AQILAH BINTI SULAIMAN (2022824754)
 
-LAB 5
+# LAB 5
+
 Link Google Drive : https://drive.google.com/file/d/16Ox6PLNcRIaPyBKJ2SzB3T6JSZ4lI0GX/view?usp=sharing
 
-FULL CODE VS:
-## // Import statements and main function initializing Firebase
+## FULL CODE VS:
+### // Import statements and main function initializing Firebase
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
