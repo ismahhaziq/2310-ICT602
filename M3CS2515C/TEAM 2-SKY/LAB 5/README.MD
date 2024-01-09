@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
 }
 
 
-// MyAppInfo class for displaying user information and product details
+### // MyAppInfo class for displaying user information and product details
 class MyAppInfo extends StatelessWidget {
   final User user;
 
@@ -97,7 +97,7 @@ class MyAppInfo extends StatelessWidget {
   }
 }
 
-// UserInfoPage section handling the user's information display and edit functionality
+### // UserInfoPage section handling the user's information display and edit functionality
 class UserInfoPage extends StatefulWidget {
   final User user;
 
@@ -222,7 +222,7 @@ class _UserInfoPageState extends State<UserInfoPage> {
   }
 }
 
-// EditUserInfoPage section handling editing user information
+### // EditUserInfoPage section handling editing user information
 class EditUserInfoPage extends StatelessWidget {
   final User user;
   final TextEditingController fullNameController = TextEditingController();
@@ -282,7 +282,7 @@ class EditUserInfoPage extends StatelessWidget {
   }
 }
 
-// ProductInfoPage section managing the user's product details
+### // ProductInfoPage section managing the user's product details
 class ProductInfoPage extends StatefulWidget {
   final User user;
 
@@ -396,7 +396,7 @@ class _ProductInfoPageState extends State<ProductInfoPage> {
   }
 }
 
-// LoginPage section managing the user login functionality
+### // LoginPage section managing the user login functionality
 class LoginPage extends StatelessWidget {
   final FirebaseAuthService _authService = FirebaseAuthService();
   final TextEditingController emailController = TextEditingController();
@@ -474,7 +474,7 @@ class LoginPage extends StatelessWidget {
   }
 }
 
-// SignupPage section handling user signup functionality
+### // SignupPage section handling user signup functionality
 class SignupPage extends StatelessWidget {
   final FirebaseAuthService _authService = FirebaseAuthService();
   final TextEditingController fullNameController = TextEditingController();
@@ -572,7 +572,7 @@ class SignupPage extends StatelessWidget {
   }
 }
 
-// FirebaseAuthService section handling Firebase authentication operations
+### // FirebaseAuthService section handling Firebase authentication operations
 class FirebaseAuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;
 

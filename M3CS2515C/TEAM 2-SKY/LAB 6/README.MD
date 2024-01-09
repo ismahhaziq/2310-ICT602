@@ -1,15 +1,17 @@
-GROUP:
+# GROUP:
 M3CS2515C
 AKMAL FARHAN BIN AHMAD ANNUAR (2022660498)
+
 NURUL IFFAH HASYIMAH BINTI HASAN (2022457982)
+
 ZUHAIRAH NURHIDAYAH BINTI ZAINUDIN (2022457722)
+
 NURFADLIYANA 'AQILAH BINTI SULAIMAN (2022824754)
 
-LAB 5
-Link Google Drive : https://drive.google.com/file/d/16Ox6PLNcRIaPyBKJ2SzB3T6JSZ4lI0GX/view?usp=sharing
+Link Gdrive: https://drive.google.com/file/d/1-tXHsNjFCC3WLpRxEgzNetBnuc0OOETe/view?usp=sharing
 
-FULL CODE VS:
-## // Import statements and main function initializing Firebase
+## FULL CODE VS:
+### // Import statements and main function initializing Firebase
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -62,7 +64,7 @@ class MyApp extends StatelessWidget {
 }
 
 
-// MyAppInfo class for displaying user information and product details
+### // MyAppInfo class for displaying user information and product details
 class MyAppInfo extends StatelessWidget {
   final User user;
 
@@ -93,7 +95,7 @@ class MyAppInfo extends StatelessWidget {
   }
 }
 
-// UserInfoPage section handling the user's information display and edit functionality
+### // UserInfoPage section handling the user's information display and edit functionality
 class UserInfoPage extends StatefulWidget {
   final User user;
 
@@ -218,7 +220,7 @@ class _UserInfoPageState extends State<UserInfoPage> {
   }
 }
 
-// EditUserInfoPage section handling editing user information
+### // EditUserInfoPage section handling editing user information
 class EditUserInfoPage extends StatelessWidget {
   final User user;
   final TextEditingController fullNameController = TextEditingController();
@@ -278,7 +280,7 @@ class EditUserInfoPage extends StatelessWidget {
   }
 }
 
-// ProductInfoPage section managing the user's product details
+### // ProductInfoPage section managing the user's product details
 class ProductInfoPage extends StatefulWidget {
   final User user;
 
@@ -392,7 +394,7 @@ class _ProductInfoPageState extends State<ProductInfoPage> {
   }
 }
 
-// LoginPage section managing the user login functionality
+### // LoginPage section managing the user login functionality
 class LoginPage extends StatelessWidget {
   final FirebaseAuthService _authService = FirebaseAuthService();
   final TextEditingController emailController = TextEditingController();
@@ -470,7 +472,7 @@ class LoginPage extends StatelessWidget {
   }
 }
 
-// SignupPage section handling user signup functionality
+### // SignupPage section handling user signup functionality
 class SignupPage extends StatelessWidget {
   final FirebaseAuthService _authService = FirebaseAuthService();
   final TextEditingController fullNameController = TextEditingController();
@@ -568,7 +570,7 @@ class SignupPage extends StatelessWidget {
   }
 }
 
-// FirebaseAuthService section handling Firebase authentication operations
+### // FirebaseAuthService section handling Firebase authentication operations
 class FirebaseAuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;
 

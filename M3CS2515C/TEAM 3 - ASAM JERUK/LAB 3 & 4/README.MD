@@ -26,7 +26,7 @@
 
 ### LINK FOR LAB 3&4 : 
 
-Link Speedcode : https://youtu.be/WHtTb-5GnYY?si=oC32ZM5OlvsVmn7B
+Link speedcode : https://youtu.be/WHtTb-5GnYY?si=oC32ZM5OlvsVmn7B
 
-Link GitHub: https://github.com/thisisnotmasyi/ICT602-LAB4.git
+Link source code: https://github.com/thisisnotmasyi/ICT602-LAB4.git
 
