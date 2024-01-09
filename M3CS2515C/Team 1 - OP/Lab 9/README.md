@@ -5,7 +5,9 @@
 - AFIQ AIMAN (2022856056)
 
 - [Lab Full (1-9) CRUD-google signin](https://github.com/ipinzr/firebase_demo.git)
-- [Lab 9 - google sign in](https://youtu.be/o4UBKcUDAZE)
+
+Video
+- [![Lab 9 - google sign in](https://img.youtube.com/vi/o4UBKcUDAZE/0.jpg)](https://www.youtube.com/watch?v=o4UBKcUDAZEE)
 
 
 
