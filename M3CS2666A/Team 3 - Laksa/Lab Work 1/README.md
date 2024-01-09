@@ -1,6 +1,9 @@
 Lab 1: Flutter Installation
 
 Step 1: Go to website https://docs.flutter.dev/get-started/install/windows/mobile. Choose for windows and desktop.
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%203%20-%20Laksa/Lab%20Work%201/Gambar%20Lab%201/step1.1.PNG
+" alt="image" width="100" height="auto">
+
 
 Step 2: Check for the System Requirements.Then can begin the installation process.
 Step 3: Install Flutter Software development Kit (Flutter SDK)
