@@ -23,7 +23,7 @@ Step 5: Go to System Properties.Then, click the Environment Variables button.
 
 Step 6: Edit Path by choose path > click 'OK' button > click 'New' button > and paste path to flutter/bin > click 'OK'
 
-<br><br><img src="https://github.com/addff/2310-ICT602/assets/130625491/8069d41d-4b93-4ad4-b8fa-bd76b904194f" alt="image" width="400" height="auto"><br><br>
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/8069d41d-4b93-4ad4-b8fa-bd76b904194f" alt="image" width="400" height="auto"><br><br>
 
 
 Step 7: Open Command Prompt (CMD) to check Flutter SDK is installed in path.
