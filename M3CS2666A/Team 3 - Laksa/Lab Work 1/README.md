@@ -2,7 +2,7 @@ Lab 1: Flutter Installation
 
 Step 1: Go to website https://docs.flutter.dev/get-started/install/windows/mobile. Choose for windows and desktop.
 
-<img src="https://github.com/addff/2310-ICT602/assets/130625491/3e4dd509-f458-41f7-8df4-f45b14ec0453" alt="image" width="700" height="auto"><br><br>
+<img src="https://github.com/addff/2310-ICT602/assets/130625491/3e4dd509-f458-41f7-8df4-f45b14ec0453" alt="image" width="700" height="auto" style:"boarder 2px "><br><br>
 
 <img src="https://github.com/addff/2310-ICT602/assets/130625491/5b798a19-4632-426c-8963-26e1e4c36ff9" alt="image" width="700" height="auto"><br>
 
