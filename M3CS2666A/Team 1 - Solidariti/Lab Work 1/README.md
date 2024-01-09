@@ -56,31 +56,40 @@ Step 12 : Write the command “flutter doctor” again if your Flutter is comple
 
 FAQ LAB WORK 1
 
-Q: What is the purpose of installing all of these tools?
+1. Q: What is the purpose of installing all of these tools?
+
 A: Flutter is a cross-platform development framework for building mobile, web, and desktop apps from a single codebase. Android Studio is the official IDE for Android development. Visual Studio Code is a lightweight code editor that supports Flutter development. Visual Studio 2022 provides additional tools for C++ development, which can be useful for some Flutter projects.
 
-Q: Do I need to install all of these tools?
+2. Q: Do I need to install all of these tools?
+
 A: It depends on your specific project requirements. If you are only developing Flutter apps for mobile devices, you may only need Flutter and Android Studio. However, if you are developing for multiple platforms or using C++ code, you may need the other tools as well.
 
-Q: What is the "flutter doctor" command used for?
+3. Q: What is the "flutter doctor" command used for?
+
 A: The "flutter doctor" command checks your system configuration to make sure that Flutter is installed correctly and that all necessary dependencies are available.
 
-Q: What should I do if I encounter errors when running "flutter doctor"?
+4. Q: What should I do if I encounter errors when running "flutter doctor"?
+
 A: The "flutter doctor" command will usually provide suggestions for how to fix any errors that it finds. You can also search for help online or consult the Flutter documentation.
 
-Q: What is the purpose of the Android SDK?
+5. Q: What is the purpose of the Android SDK?
+
 A: The Android SDK (Software Development Kit) contains the tools and libraries necessary to develop Android apps.
 
-Q: Do I need to create a virtual device in Android Studio?
+6. Q: Do I need to create a virtual device in Android Studio?
+
 A: Yes, you will need to create a virtual device in order to run and test your Flutter apps on an Android emulator.
 
-Q: What is the purpose of the Flutter extension for Visual Studio Code?
+7. Q: What is the purpose of the Flutter extension for Visual Studio Code?
+
 A: The Flutter extension provides code completion, syntax highlighting, debugging, and other features that make it easier to develop Flutter apps in Visual Studio Code.
 
-Q: What is the purpose of the Windows 10 SDK?
+8. Q: What is the purpose of the Windows 10 SDK?
+
 A: The Windows 10 SDK contains the tools and libraries necessary to develop Windows apps.
 
-Q: Do I need to install the C++ components of Visual Studio 2022?
+9. Q: Do I need to install the C++ components of Visual Studio 2022?
+
 A: Only if you are using C++ code in your Flutter projects.
 
 
