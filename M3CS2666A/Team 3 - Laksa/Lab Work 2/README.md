@@ -19,7 +19,7 @@ Step 5: Write code at activity_main.xml
 <img src="https://github.com/addff/2310-ICT602/assets/130625491/d588e31b-3cda-4656-ba76-3c7257607448" alt="image" width="700" height="auto">
 
 Step 6: Run the code and the output will appear
-<img src="https://github.com/addff/2310-ICT602/assets/130625491/927de0c3-8dab-4435-acb0-72fdc090ee3c" alt="image" width="700" height="auto">
+<img src="https://github.com/addff/2310-ICT602/assets/130625491/927de0c3-8dab-4435-acb0-72fdc090ee3c" alt="image" width="500" height="auto">
 
 
 
