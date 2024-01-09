@@ -23,6 +23,7 @@
 6. Create form other information (e.g. Product, Transaction, Course or Department)
 7. Run on AVD
 
+--------------------------------------------------------------------------
 
 ### LINK FOR LAB 3&4 : 
 
@@ -30,3 +31,22 @@ Link speedcode : https://youtu.be/WHtTb-5GnYY?si=oC32ZM5OlvsVmn7B
 
 Link source code: https://github.com/thisisnotmasyi/ICT602-LAB4.git
 
+***************************************************************************
+
+# lab_project
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+"# ICT602-LAB4" 
