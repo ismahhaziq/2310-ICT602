@@ -4,6 +4,9 @@ Step 1: Go to website https://docs.flutter.dev/get-started/install/windows/mobil
 
 <img src="https://github.com/addff/2310-ICT602/assets/130625491/3e4dd509-f458-41f7-8df4-f45b14ec0453" alt="image" width="700" height="auto">
 
+
+
+
 <img src="https://github.com/addff/2310-ICT602/assets/130625491/5b798a19-4632-426c-8963-26e1e4c36ff9" alt="image" width="700" height="auto">
 
 Step 2: Check for the System Requirements.Then can begin the installation process.
