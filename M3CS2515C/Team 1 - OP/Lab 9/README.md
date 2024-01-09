@@ -12,7 +12,7 @@ Speedcode Video
 
 
 Google sign in snippet code
-``
+```
 Future<void> _handleGoogleSignIn() async {
     try {
       // Sign in with Google
@@ -47,7 +47,7 @@ Future<void> _handleGoogleSignIn() async {
     }
   }
 
-  ``
+```
 
 
 
