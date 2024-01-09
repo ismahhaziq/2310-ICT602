@@ -2,7 +2,7 @@
 
 ## Database
 
-1. Group of 4
+1. Group of 3
 2. Using Android Studio or VS Code to connect database backend.
 3. Using Firebase or Sqlite as a Database.
 4. Using a Streamlab or OBS Studio to create Speed Code Video.
