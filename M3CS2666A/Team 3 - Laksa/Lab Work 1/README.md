@@ -28,14 +28,14 @@ Step 6: Edit Path by choose path > click 'OK' button > click 'New' button > and 
 
 Step 7: Open Command Prompt (CMD) to check Flutter SDK is installed in path.
 
-<img src="https://github.com/addff/2310-ICT602/assets/130625491/55473271-13f9-4f31-8d8a-21a7435ac614" alt="image" width="400" height="auto">
+<img src="https://github.com/addff/2310-ICT602/assets/130625491/55473271-13f9-4f31-8d8a-21a7435ac614" alt="image" width="300" height="auto">
 
 
 Step 8:  Then, type in ‘flutter‘ to check whether flutter framework can be accessed globally.
 
-<img src="https://github.com/addff/2310-ICT602/assets/130625491/3de0b411-89fb-4f33-8ac7-2bd5d448eeca" alt="image" width="400" height="auto">
+<img src="https://github.com/addff/2310-ICT602/assets/130625491/3de0b411-89fb-4f33-8ac7-2bd5d448eeca" alt="image" width="700" height="auto">
 
 
 Step 9: Lastly,type a command "flutter doctor" to analyze and check whether something is missing/has to be installed further.
 
-<img src="https://github.com/addff/2310-ICT602/assets/130625491/a21e3a43-0576-4d89-9969-620280780c1a" alt="image" width="400" height="auto">
+<img src="https://github.com/addff/2310-ICT602/assets/130625491/a21e3a43-0576-4d89-9969-620280780c1a" alt="image" width="700" height="auto">
