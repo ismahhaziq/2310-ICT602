@@ -1,8 +1,8 @@
 Lab 2 - DESIGN A LOGIN PAGE
 
 Step 1: Open Android Studio and click New Project
+<img src="https://github.com/addff/2310-ICT602/assets/130625491/17376ad7-4ee6-454a-9e0b-3aeda2a1a78a" alt="image" width="100" height="auto">
 
-![image](https://github.com/addff/2310-ICT602/assets/130625491/17376ad7-4ee6-454a-9e0b-3aeda2a1a78a)
 
 Step 2: Click Empty Activity and then click Next
 
