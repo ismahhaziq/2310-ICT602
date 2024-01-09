@@ -11,7 +11,7 @@
 ### LINK FOR LAB:
 Link Speedcode : https://youtu.be/Ote7bhq-MQM?si=BmfFfpAwUqam6n6R
 
-Link GitHub: https://github.com/thisisnotmasyi/ICT602-LAB2.git
+Link source code: https://github.com/thisisnotmasyi/ICT602-LAB2.git
 
 *********************************************************************
 
