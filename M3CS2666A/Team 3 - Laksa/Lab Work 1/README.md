@@ -33,9 +33,8 @@ Step 7: Open Command Prompt (CMD) to check Flutter SDK is installed in path.
 
 Step 8:  Then, type in ‘flutter‘ to check whether flutter framework can be accessed globally.
 
-<br><br><img src="https://github.com/addff/2310-ICT602/assets/130625491/3de0b411-89fb-4f33-8ac7-2bd5d448eeca" alt="image" width="700" height="auto"><br><br>
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/3de0b411-89fb-4f33-8ac7-2bd5d448eeca" alt="image" width="700" height="auto"><br><br>
 
 
 Step 9: Lastly,type a command "flutter doctor" to analyze and check whether something is missing/has to be installed further.
-
-<br><br><img src="https://github.com/addff/2310-ICT602/assets/130625491/a21e3a43-0576-4d89-9969-620280780c1a" alt="image" width="700" height="auto"><br><br>
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/a21e3a43-0576-4d89-9969-620280780c1a" alt="image" width="700" height="auto"><br><br>
