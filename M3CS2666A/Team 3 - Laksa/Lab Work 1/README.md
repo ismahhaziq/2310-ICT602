@@ -8,10 +8,12 @@ Step 1: Go to website https://docs.flutter.dev/get-started/install/windows/mobil
 
 Step 2: Check for the System Requirements.Then can begin the installation process.
 
-<br><br><img src="https://github.com/addff/2310-ICT602/assets/130625491/2036e796-9108-49cb-bdcb-8ef9472d080c" alt="image" width="700" height="auto"><br><br>
+
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/2036e796-9108-49cb-bdcb-8ef9472d080c" alt="image" width="700" height="auto"><br><br>
 
 Step 3: Install Flutter Software development Kit (Flutter SDK).
-<br><br><img src="https://github.com/addff/2310-ICT602/assets/130625491/735db759-0722-4408-ab50-90c7a63a6533" alt="image" width="700" height="auto"><br><br>
+
+<br><img src="https://github.com/addff/2310-ICT602/assets/130625491/735db759-0722-4408-ab50-90c7a63a6533" alt="image" width="700" height="auto"><br><br>
 
 Step 4: After completing the SDK installation, extract the folder in C:
 
@@ -37,4 +39,5 @@ Step 8:  Then, type in ‘flutter‘ to check whether flutter framework can be a
 
 
 Step 9: Lastly,type a command "flutter doctor" to analyze and check whether something is missing/has to be installed further.
+
 <br><img src="https://github.com/addff/2310-ICT602/assets/130625491/a21e3a43-0576-4d89-9969-620280780c1a" alt="image" width="700" height="auto"><br><br>
