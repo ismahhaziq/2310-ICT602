@@ -6,7 +6,8 @@ Step 1: Go to Flutter website (https://docs.flutter.dev/get-started/install)
 
 Step 2: Make sure all the required development tools have been downloaded.
 
-<img src="https://github.com/addff/2310-ICT602/tree/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login2.jpg.png" alt="image" width="auto" height="auto">
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login2.jpg.png" alt="image" width="auto" height="auto">
+
 
 Step 3: Install the Flutter sdk by clicking the blue button
 
