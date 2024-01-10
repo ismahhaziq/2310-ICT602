@@ -1,6 +1,6 @@
-Lab 1: Flutter Installation
+Question: How to get Flutter Installer?
 
-Step 1: Go to website https://docs.flutter.dev/get-started/install/windows/mobile. Choose for windows and desktop.
+Answer: Go to website https://docs.flutter.dev/get-started/install/windows/mobile. Choose for windows and desktop.
 
 <img src="https://github.com/addff/2310-ICT602/assets/130625491/3e4dd509-f458-41f7-8df4-f45b14ec0453" alt="image" width="700" height="auto" ><br><br>
 
