@@ -11,15 +11,15 @@ Step 2: Make sure all the required development tools have been downloaded.
 
 Step 3: Install the Flutter sdk by clicking the blue button
 
-<img src="https://github.com/addff/2310-ICT602/tree/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login3.png" alt="image" width="auto" height="auto">
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login3.png" alt="image" width="auto" height="auto">
 
 Step 4: Find “Edit environment variables” in the device
 
-<img src="https://github.com/addff/2310-ICT602/tree/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login4.png" alt="image" width="auto" height="auto">
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login4.png" alt="image" width="auto" height="auto">
  
 Step 5: Click Path and “Edit”, and add the path to the downloaded file
 
-<img src="https://github.com/addff/2310-ICT602/tree/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login5.png" alt="image" width="auto" height="auto">
+<img src="https://github.com/addff/2310-ICT602/blob/main/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%201/Pictures/login5.png" alt="image" width="auto" height="auto">
 
 Step 6: Find the path for the downloaded Flutter file and type “flutter”
 
