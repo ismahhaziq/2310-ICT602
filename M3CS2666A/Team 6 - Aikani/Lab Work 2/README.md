@@ -6,7 +6,7 @@ Step 1: Open Visual Studio Code.
 
 Step 2: Click ctrl + shift + P, then type flutter and click Flutter: New Project. 
 
-<img src="https://github.com/addff/2310-ICT602/blob/c777ad9891d5fa2c5839798473a5b62e3075632e/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%202/Assets/lab2%20-%202.jpg" alt="image" width="auto" height="auto">
+<img src="https://github.com/addff/2310-ICT602/blob/5a9606d8b2254aacde82bcec2dfa2145240c9631/M3CS2666A/Team%206%20-%20Aikani/Lab%20Work%202/Assets/lab2%20-%202.jpg" alt="image" width="auto" height="auto">
 
 Step 3: Choose Application.
 
