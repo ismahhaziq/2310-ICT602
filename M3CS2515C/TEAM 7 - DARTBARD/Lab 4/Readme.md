@@ -1,19 +1,22 @@
 
-2310-ICT602
-Lab Work 4 CRUD
+#2310-ICT602
 
-Group of 4
-Using VS Code create the information page detail form.
-Using Firebase as a Database.
-Speed Code Video + Music + End with Highlight on VSCode final coding pages
-Create form for User Information.
-Create form other information (e.g. Product, Transaction, Course or Department)
-Run on AVD
+#Lab Work 4 CRUD
 
-MUHAMMAD AIMAN HAZIQ BIN MOHD RAZI (2022879436)
-NIK AFIQ AKMAL BIN NIK PAR (2022830644)
-SYED FAISAL BIN SYED AB.RAZAK (2022874134)
-AHMAD FIKRIE BIN MIRZA (2022873988)
+1. Group of 4
+2. Using VS Code create the information page detail form.
+3. Using Firebase as a Database.
+4. Speed Code Video + Music + End with Highlight on VSCode final coding pages
+5. Create form for User Information.
+6. Create form other information (e.g. Product, Transaction, Course or Department)
+7. Run on AVD
+
+Group Members
+
+1. MUHAMMAD AIMAN HAZIQ BIN MOHD RAZI (2022879436)
+2. NIK AFIQ AKMAL BIN NIK PAR (2022830644)
+3. SYED FAISAL BIN SYED AB.RAZAK (2022874134)
+4. AHMAD FIKRIE BIN MIRZA (2022873988)
 
 
 FULL CODE VS:
