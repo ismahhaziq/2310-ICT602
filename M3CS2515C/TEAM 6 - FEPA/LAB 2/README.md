@@ -35,6 +35,7 @@ documentation:
 
 
 5. Output
+
 ![image](https://github.com/addff/2310-ICT602/assets/155615541/a4090685-d877-4cc7-85d7-d2dd41b030cc)
 
 
