@@ -1,4 +1,4 @@
-![image](https://github.com/addff/2310-ICT602/assets/155615541/3ec554cb-d91f-46c9-b394-2243acb8b0a7)2310-ICT602
+
 Lab Work 2
 Login Page
 1. Group of 4
