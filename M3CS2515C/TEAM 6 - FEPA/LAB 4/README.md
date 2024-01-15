@@ -25,3 +25,14 @@ Interface Create Group
 Interface Join Group
 
 ![image](https://github.com/addff/2310-ICT602/assets/155615541/6d7e1af6-a429-4aaa-bd3a-c33a09295dd9)
+
+
+Create User to firebase
+
+![image](https://github.com/addff/2310-ICT602/assets/155615541/2d4d766b-f2b6-4e17-898d-f4f916bc4ecd)
+
+
+Interface Create User Info
+
+![image](https://github.com/addff/2310-ICT602/assets/155615541/f163a03d-ed43-4472-b47f-e709f159e2f0)
+
