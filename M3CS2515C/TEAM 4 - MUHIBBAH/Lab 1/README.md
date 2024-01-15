@@ -1,7 +1,8 @@
-#Lab 1
-##Installation
+# Lab 1
 
-1. Installation
+## Installation
 
-   
+1. Go to [Flutter Site](https://flutter.dev)
+
+
 
