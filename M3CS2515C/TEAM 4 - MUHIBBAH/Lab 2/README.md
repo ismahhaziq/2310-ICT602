@@ -99,4 +99,9 @@ child: const Text('Register'),
 );
 }
 }
-'''
+```
+
+### 6. The Output
+
+![Screenshot 2024-01-16 012305](https://github.com/addff/2310-ICT602/assets/128471264/2e52b774-1718-49a1-8aeb-44defffb7bdb)
+
