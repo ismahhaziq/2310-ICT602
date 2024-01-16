@@ -15,3 +15,133 @@
 ## LINK
 
 https://youtu.be/S68PQaAXZ5E
+
+## CODE SNIPPET
+
+### Delete Action
+
+#### Catering Code
+
+```
+  Future<void> _deleteDataFromFirestore(String documentId) async {
+    await _firestore.collection('caterings').doc(documentId).delete();
+  }
+```
+
+#### Service Code
+
+```
+  Future<void> _deleteDataFromFirestore(String documentId) async {
+    await _firestore.collection('addon').doc(documentId).delete();
+  }
+```
+
+### Status Action
+
+#### Catering Part
+
+```
+Future<void> _updateDataInFirestore(String documentId, String currentField1, bool? isAvailable) async {
+    final TextEditingController _updateField1Controller = TextEditingController(text: currentField1);
+
+    await showDialog(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: Text('Update Data'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              TextField(
+                controller: _updateField1Controller,
+                decoration: InputDecoration(labelText: 'Food Name'),
+              ),
+              Text('Is Available: ${isAvailable ?? false}'), // Display the current availability status
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () async {
+                final updatedField1 = _updateField1Controller.text;
+                await _firestore.collection('caterings').doc(documentId).update({
+                  'field1': updatedField1,
+                });
+                Navigator.of(context).pop();
+              },
+              child: Text('Update'),
+            ),
+            TextButton(
+              onPressed: () async {
+                await _firestore.collection('caterings').doc(documentId).update({
+                  'isAvailable': !(isAvailable ?? false), // Toggle the availability status in Firestore
+                });
+                Navigator.of(context).pop();
+              },
+              child: Text('Toggle Availability'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+```
+
+#### Service Part
+
+```
+Future<void> _updateDataInFirestore(String documentId, String currentField1, bool? isAvailable) async {
+    final TextEditingController _updateField1Controller = TextEditingController(text: currentField1);
+
+    await showDialog(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: Text('Update Data'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              TextField(
+                controller: _updateField1Controller,
+                decoration: InputDecoration(labelText: 'Add-On Name'),
+              ),
+              Text('Is Available: ${isAvailable ?? false}'), // Display the current availability status
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: Text('Cancel'),
+            ),
+            TextButton(
+              onPressed: () async {
+                final updatedField1 = _updateField1Controller.text;
+                await _firestore.collection('addon').doc(documentId).update({
+                  'field1': updatedField1,
+                });
+                Navigator.of(context).pop();
+              },
+              child: Text('Update'),
+            ),
+            TextButton(
+              onPressed: () async {
+                await _firestore.collection('addon').doc(documentId).update({
+                  'isAvailable': !(isAvailable ?? false), // Toggle the availability status in Firestore
+                });
+                Navigator.of(context).pop();
+              },
+              child: Text('Toggle Availability'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+```
