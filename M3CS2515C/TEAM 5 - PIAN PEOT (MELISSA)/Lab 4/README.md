@@ -4,3 +4,9 @@
 2) Hamizan Zafri Bin Ahmad Fauzansah (2022856384)
 3) Muhammad Alif Aiman Bin Mujib (2022898788)
 4) Haziq Danish Bin Hafiz (2022659784)
+
+Lab video link on YouTube:
+https://youtu.be/vbm5E-qLY1Q
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vbm5E-qLY1Q" target="_blank">
+ <img src="http://img.youtube.com/vi/vbm5E-qLY1Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
