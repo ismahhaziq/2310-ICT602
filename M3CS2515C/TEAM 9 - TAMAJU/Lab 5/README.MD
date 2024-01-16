@@ -15,6 +15,8 @@
 
 https://youtu.be/MAP8BU-mesg
 
+## CODE SNIPPET
+
 User Information Page
 ```
 import 'package:flutter/material.dart';
