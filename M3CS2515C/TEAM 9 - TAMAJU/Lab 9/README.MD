@@ -9,7 +9,6 @@
 (more: https://pub.dev/packages/google_sign_in)
 5. Create Google Sign-in Page/Screen.
 6. Highlight on YouTube using the timestamps.
-7. Github page README.md should highlight on VSCode final coding pages + Speedcode.
 
 ## LINK
 
