@@ -13,3 +13,55 @@
 ## LINK
 
 https://youtu.be/G7KHWwJsEHQ
+
+##CODE SNIPPET
+
+#### Google Login Logic
+```
+  Future<void> _handleGoogleSignIn() async {
+    try {
+      // Sign in with Google
+      final GoogleSignInAccount? googleUser = await GoogleSignIn().signIn();
+
+      if (googleUser == null) {
+        // The user canceled the Google Sign-In process
+        return;
+      }
+
+      // Get Google Sign-In authentication details
+      final GoogleSignInAuthentication googleAuth =
+          await googleUser.authentication;
+      final AuthCredential credential = GoogleAuthProvider.credential(
+        accessToken: googleAuth.accessToken,
+        idToken: googleAuth.idToken,
+      );
+
+      // Sign in with Firebase using Google credentials
+      await _auth.signInWithCredential(credential);
+
+      // Pass the user's email to the HomeScreen
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(
+          builder: (context) =>
+              HomeScreen(userEmail: _auth.currentUser?.email ?? ""),
+        ),
+      );
+    } catch (e) {
+      print('Google Sign-In error: $e');
+    }
+  }
+```
+
+#### Google Login Button
+```
+      ElevatedButton(
+                onPressed: _handleGoogleSignIn,
+                child: Text('Login with Google'),
+              ),
+```
+
+#### Add Dependency in Pubspec.yaml
+```
+  google_sign_in: ^6.1.6
+```
