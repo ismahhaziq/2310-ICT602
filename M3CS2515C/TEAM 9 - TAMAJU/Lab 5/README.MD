@@ -17,7 +17,7 @@ https://youtu.be/MAP8BU-mesg
 
 ## CODE SNIPPET
 
-User Information Page
+### User Information Page
 ```
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -143,7 +143,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
 }
 ```
 
-Catering & Add-On Page
+### Catering & Add-On Page
 ```
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_demo/screen/home.dart';
