@@ -1,5 +1,6 @@
 # LAB 1 – INSTALLATION FLUTTER, ANDROID STUDIO, VISUAL STUDIO CODE AND VISUAL STUDIO COMMUNITY 2022
 
+![Alt text](./images/persona.png)
 
 ### Step 1: Go to https://docs.flutter.dev/get-started/install/windows/mobile?tab=download, download Flutter SDK.
 
