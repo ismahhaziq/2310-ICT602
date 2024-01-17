@@ -7,6 +7,3 @@
 3. Screenshot all website related to installation.
 4. Make a FAQ.
 
-
-
-https://raw.githubusercontent.com/thisisnotmsyi/images/persona.png
