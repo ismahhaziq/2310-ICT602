@@ -25,7 +25,37 @@
 
 //create form for user information
 
-![image](https://github.com/addff/2310-ICT602/assets/102727610/57a9bb2c-e6da-4e2a-b830-369f95700825)
+```
+Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Firestore CRUD Operations'),
+      ),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            TextField(
+              onChanged: (value) {
+                setState(() {
+                  newName = value;
+                });
+              },
+              decoration: InputDecoration(labelText: 'New Name'),
+            ),
+            TextField(
+              onChanged: (value) {
+                setState(() {
+                  documentID = value;
+                });
+              },
+              decoration: InputDecoration(labelText: 'Document ID (Leave empty to generate)'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                createStudent();
+              },
+```
 
 
 //display information
