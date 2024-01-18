@@ -60,7 +60,21 @@ Widget build(BuildContext context) {
 
 //display information
 
-![image](https://github.com/addff/2310-ICT602/assets/102727610/5f8f8db8-e946-49c8-bf51-df8666c2aeb3)
+```
+final students = snapshot.data!.docs;
+            return ListView.builder(
+              itemCount: students.length,
+              itemBuilder: (context, index) {
+                final student = students[index];
+                final data = student.data() as Map<String, dynamic>;
+                final name = data['name'] as String;
+                final documentID = student.id;
+                return ListTile(
+                  title: Text('Name: $name'),
+                  subtitle: Text('Document ID: $documentID'),
+                );
+              },
+```
 
 --------------------------------------------------------------------------
 
