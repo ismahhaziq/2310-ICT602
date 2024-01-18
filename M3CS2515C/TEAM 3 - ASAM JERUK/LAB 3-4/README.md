@@ -23,6 +23,12 @@
 6. Create form other information (e.g. Product, Transaction, Course or Department)
 7. Run on AVD
 
+//create form for user information
+![image](https://github.com/addff/2310-ICT602/assets/102727610/57a9bb2c-e6da-4e2a-b830-369f95700825)
+
+//display information
+![image](https://github.com/addff/2310-ICT602/assets/102727610/5f8f8db8-e946-49c8-bf51-df8666c2aeb3)
+
 --------------------------------------------------------------------------
 
 ### LINK FOR LAB 3&4 : 
