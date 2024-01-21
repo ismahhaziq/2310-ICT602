@@ -86,7 +86,7 @@ class Drinks extends Model
     //     return $this->belongsTo(Category::class);
     // }
 }
-
+```
 
 ```
 ### LARAVEL (DrinksController.php)
@@ -155,7 +155,7 @@ class DrinksController extends Controller
     }
 }
 
-
+```
 
 ```
 
@@ -177,7 +177,7 @@ Route::delete('/drinks/{drink}', [DrinksController::class, 'destroy']);
 
 
 ```
-
+```
 ### LARAVEL (Routes/api.php)
 <?php
 
