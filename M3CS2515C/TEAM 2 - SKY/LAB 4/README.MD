@@ -23,7 +23,7 @@ NURFADLIYANA 'AQILAH BINTI SULAIMAN (2022824754)
 
 # LAB 4
 
-Link Youtube : https://drive.google.com/file/d/16Ox6PLNcRIaPyBKJ2SzB3T6JSZ4lI0GX/view?usp=sharing
+Link Youtube : https://youtu.be/X-Dkqm7xzls
 
 ## FULL CODE VS:
 ### // Import statements and main function initializing Firebase
