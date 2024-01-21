@@ -23,7 +23,7 @@ ZUHAIRAH NURHIDAYAH BINTI ZAINUDIN (2022457722)
 
 NURFADLIYANA 'AQILAH BINTI SULAIMAN (2022824754)
 
-Link Gdrive: https://drive.google.com/file/d/1-tXHsNjFCC3WLpRxEgzNetBnuc0OOETe/view?usp=sharing
+Youtube: https://youtu.be/YU2t4tWIenM
 ```
 ## FULL CODE VS:
 ### // Import statements and main function initializing Firebase
