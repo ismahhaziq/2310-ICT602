@@ -21,4 +21,4 @@ NURFADLIYANA 'AQILAH BINTI SULAIMAN (2022824754)
 
 # LAB 2
 
-Link Youtube :
+Link Youtube : https://youtu.be/ONaUGcHJvNI
