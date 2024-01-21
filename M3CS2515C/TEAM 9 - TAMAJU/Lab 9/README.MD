@@ -14,7 +14,7 @@
 
 https://youtu.be/G7KHWwJsEHQ
 
-##CODE SNIPPET
+## CODE SNIPPET
 
 #### Google Login Logic
 ```
